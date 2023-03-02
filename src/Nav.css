@@ -1,0 +1,12 @@
+.nav{
+    position: fixed;
+    top:0;
+    width:100%;
+    padding: 20px;
+    display: flex;
+    height: 20px;
+    z-index: 1;
+}
+.nav__black{
+    background-color: black;
+}
